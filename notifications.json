@@ -26,12 +26,5 @@
     "message": "hello",
     "department": "cse",
     "createdAt": "2026-05-18T06:30:53.504Z"
-  },
-  {
-    "id": 1779085853512,
-    "title": "hello",
-    "message": "hello",
-    "department": "cse",
-    "createdAt": "2026-05-18T06:30:53.512Z"
   }
 ]
