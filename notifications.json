@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": 1779085853420,
+    "title": "hello",
+    "message": "hello",
+    "department": "cse",
+    "createdAt": "2026-05-18T06:30:53.420Z"
+  },
+  {
+    "id": 1779085853493,
+    "title": "hello",
+    "message": "hello",
+    "department": "cse",
+    "createdAt": "2026-05-18T06:30:53.493Z"
+  },
+  {
+    "id": 1779085853499,
+    "title": "hello",
+    "message": "hello",
+    "department": "cse",
+    "createdAt": "2026-05-18T06:30:53.499Z"
+  },
+  {
+    "id": 1779085853504,
+    "title": "hello",
+    "message": "hello",
+    "department": "cse",
+    "createdAt": "2026-05-18T06:30:53.504Z"
+  },
+  {
+    "id": 1779085853512,
+    "title": "hello",
+    "message": "hello",
+    "department": "cse",
+    "createdAt": "2026-05-18T06:30:53.512Z"
+  }
+]
